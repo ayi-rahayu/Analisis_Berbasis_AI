@@ -66,7 +66,7 @@ Aplikasi ini masih dalam tahap pengembangan aktif. Fitur inti sudah berjalan den
 
 - **Praktis** — Analisis resume tanpa perlu ahli  
 - **Cepat** — Hasil langsung didapat dalam hitungan detik  
-- **Gratis & Terbuka** — Bisa langsung coba tanpa biaya dan source code tersedia untuk pengembangan  
+- **Gratis** — Bisa langsung coba tanpa biaya  
 - **Membantu Karier** — Mendapat insight berguna untuk langkah karier berikutnya  
 
 ---
